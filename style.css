@@ -1,0 +1,98 @@
+body {
+
+    background-color:white
+    
+    
+}
+main a {
+ text-decoration: none;
+ color: black;
+}
+
+header {
+    float: right;
+}
+nav div img{
+    width: 25px;
+}
+nav div {
+    display: inline-block;
+    padding: 7px;
+}
+
+.butacc
+{
+    background-color: #1a73e8;
+    display: inline;
+    border: none;
+    color: white;
+    padding: 6px;
+    border: 1px;
+    margin: 0x 8px;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imag {
+    margin-left: -5px;
+    height: 30px;
+    width: 450px;
+    padding: 100px;
+    display: block;
+}
+
+section center input{
+    display: block;
+    width: 350px;
+    height: 25px;
+    margin-top: 2%;
+    
+}
+section.inputs{
+    display: inline-flex;
+}
+section.centro input:hover {
+    display: inline-block;
+}
+form.search input {
+    
+    width: 130px;
+    height: 22px;
+    margin-left: 440px;
+   
+}
+form.lucky input{
+    width: 138px;
+    height: 22px;
+    margin-left: 4px;
+   
+  
+}
+
+footer {
+    margin-top: 100px;
+ 
+}
+p{
+    
+    float: left 1;
+}
+
+ul li{
+    display: inline-block;
+}
+ul.izquierda{
+    float:left;
+    padding: 2px;
+}
+ul.derecha
+{
+    float: right;
+}
+.ax
+{
+    text-decoration: underline;
+    margin: 6px;
+}    
+
